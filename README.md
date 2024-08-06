@@ -1,3 +1,4 @@
 # RLDMM_DL
 
-This is an implentation of our RL_SS model via deep policy gradient
+This is an implantation of our RL_SS model via a deep policy gradient network
+This model can reproduce the Q-table that we observed in the original study
